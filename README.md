@@ -1,30 +1,4 @@
-# ui-setup
-
-Base reusable project setup to develop UI/UX.
-
-## How to run project for browser testing
-
-run command in terminal `npm start`
-
-## How to run project for development
-
-run command in terminal `npm run dev`
-
-## How to build for productiont
-
-run command in terminal `npm run build`
-find `production` folder with all updated html. Now you can deploye production folder to your server.
-make sure that all html files are in root folder
-
-## how to setup gulp?
-
-Refer `https://gulpjs.com/docs/en/getting-started/quick-start/`
-
-## gulp commands
-
-to minify js `gulp js-uglify`
-to minify css `gulp css-uglify`
-to run multiple tasks at once `gulp build`
+# Dynamic Landing Page With time and some details
 
 ## Version details and other documentations
 
